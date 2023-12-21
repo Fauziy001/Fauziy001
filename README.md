@@ -8,7 +8,7 @@ According to NodeXL, I am among the Top 10 dataviz and R contributor on Twitter<
 [![](https://visitcount.itsvg.in/api?id=Fauziy001&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ***
-### Let's connect! 🖇
+### Let's Connect:
 I'm open for new projects and collaborations, so feel free to send me a message! Here is where you can find me!
 <p>
 <a href="https://mailto:jiboyone001@gmail.com/">
@@ -19,6 +19,26 @@ I'm open for new projects and collaborations, so feel free to send me a message!
 <img alt="Instagram" src="https://img.shields.io/badge/Instagram-B33D89?logo=instagram&logoColor=white&style=flat" height="20"><a/>
 <a href="https://web.facebook.com/profile.php?id=61551084690898/">
 <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=flat" height="20"><a/>
+<a href="https://t.me/jiboyone001/">
+<img alt="Telegram" src="https://img.shields.io/badge/Telegram-0088cc?logo=telegram&logoColor=white&style=flat" height="20"><a/>
+<a href="https://www.youtube.com/channel/UCciEAZQ3zIgPH3bZH_AA3fQ/">
+<img alt="Youtube" src="https://img.shields.io/badge/Youtube-FF0000?logo=youtube&logoColor=white&style=flat" height="20"><a/>
+<a href="https://www.tiktok.com/@jiboyone001/">
+<img alt="TikTok" src="https://img.shields.io/badge/TikTok-EE1D52?logo=tiktok&logoColor=white&style=flat" height="20"><a/>
+<a href="https://www.linkedin.com/in/fauzi-yahya-a13773286/">
+<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat" height="20"><a/>
+<a href="http://www.pinterest.com/jiboyone001/">
+<img alt="Pinterest" src="https://img.shields.io/badge/Pinterest-E60023?logo=pinterest&logoColor=white&style=flat" height="20"><a/>
+<a href="https://twitter.com/jiboyone001/">
+<img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat" height="20"><a/>
+<a href="https://discord.gg/Dafuee2bKQ/">
+<img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=flat" height="20"><a/>    
+<a href="https://github.com/Fauziy001/">
+<img alt="Github" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white&style=flat" height="20"><a/>    
+<a href="https://id.quora.com/profile/FAUZI-YAHYA/">
+<img alt="Quora" src="https://img.shields.io/badge/Quora-FF0000?logo=quora&logoColor=white&style=flat" height="20"><a/>  
+<a href="https://issuu.com/jiboyo001ne/">
+<img alt="issuu" src="https://img.shields.io/badge/issuu-F26F61?logo=issuu&logoColor=white&style=flat" height="20"><a/>  
 
 ***
 ### Languages:
