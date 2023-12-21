@@ -60,10 +60,32 @@ List of programming languages ​​that I use in geographic information systems
 ***  
 ### Tools:
 <p>
+<a href="https://id.wikipedia.org/wiki/Google_Earth/">
+<img alt="Google Earth" src="https://img.shields.io/badge/Google Earth-276DC3?logo=GoogleEarth&logoColor=white&style=flat" height="20"></a>
 <a href="https://earthengine.google.com/">
-<img alt="Google Earth Engine" src="https://img.shields.io/badge/Google Earth Engine-276DC3?logo=GoogleEarthEngine&logoColor=white&style=flat" height="20"></a>
-<a href="https://earthengine.google.com/">
-<img alt="Google Earth Engine" src="https://img.shields.io/badge/Google Earth-276DC3?logo=GoogleEarth&logoColor=white&style=flat" height="20"></a>
+<img alt="Google Earth Engine" src="https://img.shields.io/badge/Google Earth Engine-276DC3?logo=GoogleEarthEngine&logoColor=white&style=flat" height="20"></a>     
+<a href="https://en.wikipedia.org/wiki/Leaflet_(software)/">
+<img alt="Leaflet" src="https://img.shields.io/badge/Leaflet-276DC3?logo=leaflet&logoColor=white&style=flat" height="20"></a>
+<a href="https://en.wikipedia.org/wiki/Leaflet_(software)/">
+<img alt="Arcgis" src="https://img.shields.io/badge/Arcgis-276DC3?logo=arcgis&logoColor=white&style=flat" height="20"></a>
+<a href="https://en.wikipedia.org/wiki/Leaflet_(software)/">
+<img alt="Qgis" src="https://img.shields.io/badge/Qgis-276DC3?logo=qgis&logoColor=white&style=flat" height="20"></a>
+<a href="https://en.wikipedia.org/wiki/Leaflet_(software)/">
+<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-276DC3?logo=visualstudiocode&logoColor=white&style=flat" height="20"></a>
+<a href="https://en.wikipedia.org/wiki/Leaflet_(software)/">
+<img alt="RStudio" src="https://img.shields.io/badge/RStudio-276DC3?logo=rstudio&logoColor=white&style=flat" height="20"></a>
+<a href="https://en.wikipedia.org/wiki/Leaflet_(software)/">
+<img alt="Google Colab" src="https://img.shields.io/badge/Google Colab-276DC3?logo=googlecolab&logoColor=white&style=flat" height="20"></a>
+<a href="https://en.wikipedia.org/wiki/Leaflet_(software)/">
+<img alt="AutoCAD" src="https://img.shields.io/badge/AutoCAD-276DC3?logo=autocad&logoColor=white&style=flat" height="20"></a>
+<a href="https://en.wikipedia.org/wiki/Leaflet_(software)/">
+<img alt="Mapbox" src="https://img.shields.io/badge/Mapbox-276DC3?logo=mapbox&logoColor=white&style=flat" height="20"></a>
+<a href="https://en.wikipedia.org/wiki/Leaflet_(software)/">
+<img alt="OpneStreetMap" src="https://img.shields.io/badge/OpenStreetMap-276DC3?logo=openstreetmap&logoColor=white&style=flat" height="20"></a>
+<a href="https://en.wikipedia.org/wiki/Leaflet_(software)/">
+<img alt="Carto" src="https://img.shields.io/badge/Carto-276DC3?logo=carto&logoColor=white&style=flat" height="20"></a>
+<a href="https://en.wikipedia.org/wiki/Leaflet_(software)/">
+<img alt="MapInfo Pro" src="https://img.shields.io/badge/MapInfo Pro-276DC3?logo=mapinfopro&logoColor=white&style=flat" height="20"></a>
       
 ***
 ### GitHub Stats!
